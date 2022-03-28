@@ -1,4 +1,4 @@
-### Hi I'm sumin 👋
+### 🤗 Hi I'm sumin 👋
 
 <!--
 **kang-sumin/kang-sumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
