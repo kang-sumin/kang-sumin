@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #
-<div align="center">
+<div align="center"></div>
 <!-- Stats표 만들기 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kang-sumin&show_icons=true&theme=tokyonight)
 
