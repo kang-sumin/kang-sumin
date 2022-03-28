@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #
+<div>
 
 <!-- Stats표 만들기 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kang-sumin&show_icons=true&theme=tokyonight)
@@ -26,4 +27,4 @@ Here are some ideas to get you started:
 <!-- 언어 사용량 통계 나타내기 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kang-sumin&layout=compact&theme=tokyonight)
 
-
+</div>
